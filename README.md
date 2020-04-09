@@ -1,3 +1,5 @@
+## WHAT YOU WANT IN THE CITY OF YOUR DREAMS.
+
 
 This project purpose is to make next-gen civilization by building a new CITY, new law, new lifestyle, new everything.
 
@@ -5,17 +7,37 @@ This project purpose is to make next-gen civilization by building a new CITY, ne
 you can add topics and question (problem) and answers(solutions )
 
 ## Starting point
-SECURITY
+
+SECURITY 
 
 --> ECONOMY 
 
+1. TAX
+
+2.CONTRACT WITH OTHER NATIONS
+
+3.CONTRACT WITH PRIVATE COMPANIES
+
+4. IMPORT EXPORT LAW 
+
+
 --> HOUSING.
+APPARTEMENT 
+RENT LAW
+
 
 -->FOOD security 
+AQUAPONICS,
+HYDROPONICS,
+VERITICAL and HORIZONTAL FARMIN,
+
  
 -->LAW and LAW  ENFORCEMENT
 
 --> CYBER security and PRIVACY ENFORCEMENT
+
+-->LIFE STYLE :
+
 
 
 
